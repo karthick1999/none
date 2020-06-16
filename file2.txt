@@ -1,1 +1,2 @@
-file 2 is chnged in master and fle 2 is now branch3 
+file 2 is changed in branch2
+
